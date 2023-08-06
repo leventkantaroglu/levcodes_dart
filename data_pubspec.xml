@@ -1,0 +1,17 @@
+<root>
+	<name>levcodes_dart</name>
+	<description>A sample command-line application.</description>
+	<version>1.0.0</version>
+	<myKey>myValue</myKey>
+	<environment>
+		<sdk>^3.0.0</sdk>
+	</environment>
+	<dependencies>
+		<path>^1.8.0</path>
+		<yaml>^3.1.2</yaml>
+	</dependencies>
+	<dev_dependencies>
+		<lints>^2.0.0</lints>
+		<test>^1.21.0</test>
+	</dev_dependencies>
+</root>
